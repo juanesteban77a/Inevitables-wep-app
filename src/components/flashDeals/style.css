@@ -1,0 +1,12 @@
+.flash {
+  background: #f6f9fc;
+  padding: 60px 0;
+}
+
+
+
+.slick-slide img {
+  display: block;
+  width: 150px;
+  margin-top: 20px;
+}
